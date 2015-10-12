@@ -1,24 +1,23 @@
-# Data-Website-Project
-Data, JS, HTML and CSS integrated into one project where students can demonstrate what they have learned 
+# Data-Graphical-Interface
+This repository is for an assignment related to data collection and handling, and displaying that data using JS and HTML/CSS
 
-**What is Your Passion?**
+*Fork this repository and clone it down to your local machine
 
-For this assignment, you will be utilizing what you have learned about JavaScript, HTML and CSS to design and build a web page which displays something that you are passionate about. It must be a topic in which you can find usable data. This assignment will be graded based on functionality, as well as how you convey the topic. Please take it seriously. 
+*Ensure that all file names/extensions are properly named and placed in the appropriate location
 
-- Fork this repository and clone it down to your local machine
+*Once you have opened Php Storm, create three files:
 
-- Ensure you have properly named and placed all necessary source folders and files
+    1. a .js file
+    2. a .html file
+    3. a .css file
 
-- Create a new project with in Php Storm with three files:
+*These should all be in the same project, which is named after this repository. Please don't change the name.
 
-    1. an index.html file
-    2. a scripts.js file
-    3. a styleSheet.css file
+*Add, edit, create, delete your code as you see fit
 
-- You must have at least two separate scripts in your .js file
-- You must have no less than two graphs (each of your choosing) representing the data that you have researched
-- Your .html must be a functioning website with no bugs, spelling or grammatical errors
-- You must have at least two styles added to your site in your separate .css file
-- There must be one functioning link to the website/s which were used for your data/research
+*Commit all unstaged files in Source Tree
 
-**Appearance and functionality are of paramount importance, so please do you absolute best**
+*Push 
+
+*Initiate a pull-request for instructor review
+

@@ -1,0 +1,45 @@
+
+
+body {
+    background-color: darkkhaki;
+}
+
+#piechart {
+
+    margin: auto;;
+}
+
+#series_chart_div {
+    margin: auto;
+}
+
+h1 {
+    margin: auto;
+    width: 350px;
+    padding: 10px;
+    color: red;
+}
+
+h3{  margin: auto;
+    width: 900px;
+    color: crimson}
+
+h4 {
+
+    margin: auto;
+    width: 800px;
+}
+
+#sandyBrown {
+    background-color: sandybrown;
+}
+
+a {
+    margin-left: 40px;
+}
+
+#border {
+    background-color: green;
+    margin: auto;
+    width: 950px;
+}
